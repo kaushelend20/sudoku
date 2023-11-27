@@ -1,4 +1,4 @@
 # sudoku
 This is my first git repository
 <br/>
-author : Kaushlendra
+author : Kaushlendra mathur
